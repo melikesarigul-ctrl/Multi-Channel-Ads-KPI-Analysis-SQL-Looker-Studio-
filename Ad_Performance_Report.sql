@@ -25,4 +25,3 @@ sum(value) as total_conversion_value
 from all_facebook_data
 group by ad_date, media_source, campaign_name, adset_name 
 order by ad_date, media_source, campaign_name, adset_name;
-"
