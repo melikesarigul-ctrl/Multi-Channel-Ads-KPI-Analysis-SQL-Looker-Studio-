@@ -28,6 +28,7 @@ This project integrates Facebook Ads and Google Ads data using SQL Common Table 
 2. Line chart: Number of active campaigns per month.
 3. Campaign performance table with heatmap: Total Ad Spend, CPC, CPM, CTR, ROMI by campaign.
 4. Filters: Campaign Name, Ad Date.
+- https://lookerstudio.google.com/reporting/d869bba4-0e7d-4cab-9a15-166511c0cd62
 
 # Key Insights
 - Top Performer: The Trendy campaign delivers the highest efficiency with a 191 ROMI
@@ -35,7 +36,5 @@ This project integrates Facebook Ads and Google Ads data using SQL Common Table 
 - Ad Spend reached its peak in April 2022, but ROMI remained stable around 120.
 - Campaign activity peaked at 7 in mid-2021 but has significantly decreased since then. By late 2022, the brand moved to a more focused strategy with only 1 active campaign.
 
-# Looker Studio Dashboard
-https://lookerstudio.google.com/reporting/d869bba4-0e7d-4cab-9a15-166511c0cd62
-
+# Conclusion
 The final dashboard provides actionable insights for cross-channel marketing performance, budget optimization, and campaign efficiency analysis.
