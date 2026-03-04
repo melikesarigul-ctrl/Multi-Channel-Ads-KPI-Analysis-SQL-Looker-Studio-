@@ -1,7 +1,7 @@
 # Multi-Channel-Ads-KPI-Analysis-SQL-Looker-Studio-
 
 # Description
-This project integrates Facebook Ads and Google Ads data using SQL Common Table Expressions (CTEs) and visualizes the results in Looker Studio. 
+- This project integrates Facebook Ads and Google Ads data using SQL Common Table Expressions (CTEs) and visualizes the results in Looker Studio. 
 
 # SQL Data Preparation:
 1. Combined Facebook tables (`facebook_ads_basic_daily`, `facebook_adset`, `facebook_campaign`) into a campaign- and ad set-level performance table, including:
@@ -37,4 +37,4 @@ This project integrates Facebook Ads and Google Ads data using SQL Common Table 
 - Campaign activity peaked at 7 in mid-2021 but has significantly decreased since then. By late 2022, the brand moved to a more focused strategy with only 1 active campaign.
 
 # Conclusion
-The final dashboard provides actionable insights for cross-channel marketing performance, budget optimization, and campaign efficiency analysis.
+- The final dashboard provides actionable insights for cross-channel marketing performance, budget optimization, and campaign efficiency analysis.
